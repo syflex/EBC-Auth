@@ -8,7 +8,7 @@ app.get('/', (req: Request, res: Response) => {
 
 // should return hello world
 app.get('/hello', (req: Request, res: Response) => {
-  res.send('Hello world')
+    res.send('Hello world')
 })
 
 export default app
