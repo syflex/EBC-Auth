@@ -1,0 +1,16 @@
+
+# Ignore artifacts:
+node_modules/
+*.DS_store
+*.nc
+dist/
+/.env
+.env
+.eslintrc.js
+jest.config.js
+package.json
+README.md
+tsconfig.json
+.eslintrc.json
+.prettierrc.json
+package-lock.json
